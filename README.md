@@ -3,7 +3,7 @@
 
 -Fine-tuned resulting model .ckpt files added.
 
--VQ-GAN fine tuning colab codebook added.
+-VQ-GAN fine tuning colab codebook added. (Contributed by @rom1504)
 
 -Image filtering script added.
  (Some web-based images might be truncated when download them, which would case PIL error. This script pre-load with PIL and delete invalid image samples.)
